@@ -4,3 +4,4 @@ print(phones.get("year"))
 phones.clear()
 print(phones)
 
+#다른 실습들은 푸는 대로 업로드
